@@ -1,6 +1,6 @@
 {
   "name": "clevercmd",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "A NPX package to interact with Cleverbot using the CMD.",
   "main": "index.js",
   "bin": "./index.js",
