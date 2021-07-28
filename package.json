@@ -1,0 +1,27 @@
+{
+  "name": "clevercmd",
+  "version": "1.0.0",
+  "description": "A NPX package to interact with Cleverbot using the CMD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malte-linke/clevercmd.git"
+  },
+  "author": {
+    "email": "contact@malte-linke.com",
+    "name": "Malte Linke",
+    "url": "https://malte-linke.com"
+  },
+  "license": "GNU GPLv3",
+  "bugs": {
+    "url": "https://github.com/malte-linke/clevercmd/issues"
+  },
+  "homepage": "https://github.com/malte-linke/clevercmd#readme",
+  "dependencies": {
+    "cleverbot-free": "^1.1.6"
+  }
+}
