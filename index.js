@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 // import dependencies
 const cleverbot = require('cleverbot-free');
 const readline = require('./readline');
